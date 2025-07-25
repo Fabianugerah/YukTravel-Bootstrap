@@ -1,37 +1,37 @@
 # ✈️ YukTravel-Bootstrap
 
-YukTravel-Bootstrap adalah sebuah landing page untuk layanan travel yang dibangun menggunakan **HTML**, **CSS**, dan **Bootstrap 5**. Proyek ini ditujukan untuk memberikan antarmuka modern, responsif, dan ramah pengguna bagi calon wisatawan yang ingin menjelajahi destinasi wisata serta memesan paket perjalanan secara online.
+**YukTravel-Bootstrap** is a responsive landing page for a travel service built using **HTML**, **CSS**, and **Bootstrap 5**. This project is designed with a modern, clean, and user-friendly interface to help users explore destinations and book travel packages online with ease.
 
 ---
 
-## 🔍 Fitur Utama
+## 🔍 Key Features
 
-- 🌐 **Responsif** di berbagai perangkat (mobile, tablet, desktop)
-- 🎨 **Desain modern** dengan warna yang menarik
-- 📋 **Informasi lengkap** mengenai destinasi, paket wisata, dan kontak
-- 🔗 Navigasi mudah dan cepat
-- 💡 Dibuat dengan struktur HTML dan komponen Bootstrap 5 yang bersih dan terorganisir
-
----
-
-## 🛠️ Teknologi yang Digunakan
-
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-
+- 🌐 **Responsive** design for mobile, tablet, and desktop
+- 🎨 **Modern layout** with attractive visuals
+- 📋 **Complete information** about destinations, travel packages, and contact
+- 🔗 **Easy navigation** and smooth scrolling
+- 💡 Built with well-structured HTML and Bootstrap 5 components
 
 ---
 
-## 📸 Cuplikan Tampilan
+## 🛠️ Technologies Used
 
-![Tampilan YukTravel Landing Page](images/yuk_travel.png)
-<div align="right">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Fabianugerah.Fabianugerah&left_color=darkslateblue&right_color=royalblue&left_text=visitors" />
-</div>
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ---
 
-## 🚀 Cara Menjalankan Proyek
+## 📸 Preview Screenshot
 
-1. Clone repository ini ke dalam komputer lokal:
+*(You can insert your project screenshot here)*  
+Example:
+![YukTravel Homepage Preview](images/yuk_travel.png)
+
+---
+
+## 🚀 Getting Started
+
+1. Clone this repository to your local machine:
    ```bash
    git clone https://github.com/Fabianugerah/YukTravel-Bootstrap.git
