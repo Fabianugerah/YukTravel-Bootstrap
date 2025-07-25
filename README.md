@@ -16,17 +16,17 @@ YukTravel-Bootstrap adalah sebuah landing page untuk layanan travel yang dibangu
 
 ## 🛠️ Teknologi yang Digunakan
 
-- HTML5
-- CSS3
-- Bootstrap 5
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+
 
 ---
 
 ## 📸 Cuplikan Tampilan
 
-*(Tambahkan screenshot proyek di sini jika ada)*  
-Contoh:
-![Tampilan YukTravel Landing Page](assets/screenshot-home.png)
+![Tampilan YukTravel Landing Page](images/yuk_travel.png)
+<div align="right">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Fabianugerah.Fabianugerah&left_color=darkslateblue&right_color=royalblue&left_text=visitors" />
+</div>
 
 ---
 
