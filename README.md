@@ -24,8 +24,6 @@
 
 ## 📸 Preview Screenshot
 
-*(You can insert your project screenshot here)*  
-Example:
 ![YukTravel Homepage Preview](images/yuk_travel.png)
 
 ---
